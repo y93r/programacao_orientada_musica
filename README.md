@@ -35,7 +35,7 @@ Neste módulo, você pode criar uma playlist de músicas utilizando a classe Mú
 playlist_mp3 = [m1, m2, m3, m4, m5, m6, m7, m8, m9, m10]
 ```
 
-4.<b>Reproduzindo a playlist:</b> Utilize um loop para simular a reprodução de cada música.
+4. <b>Reproduzindo a playlist:</b> Utilize um loop para simular a reprodução de cada música.
 ```
 print('PLAYLIST TOCANDO...\n')
 for musica in playlist_mp3:
